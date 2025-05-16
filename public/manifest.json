@@ -1,0 +1,16 @@
+{
+  "name": "Aventrada",
+  "short_name": "Aventrada",
+  "description": "Plataforma de gestión de eventos y entradas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9333ea",
+  "icons": [
+    {
+      "src": "/aventrada-logo-new.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
